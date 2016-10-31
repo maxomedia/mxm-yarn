@@ -1,0 +1,12 @@
+{
+  "name": "yarn test",
+  "version": "1.0.0",
+  "description": "this is a test project",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/maxomedia/mxm-yarn.git",
+    "type": "git"
+  },
+  "author": "Kilian <kilian.sonnentruecker@maxomedia.ch>",
+  "license": "MIT"
+}
