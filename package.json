@@ -1,5 +1,5 @@
 {
-  "name": "yarn test",
+  "name": "yarn_test",
   "version": "1.0.0",
   "description": "this is a test project",
   "main": "index.js",
@@ -8,5 +8,5 @@
     "type": "git"
   },
   "author": "Kilian <kilian.sonnentruecker@maxomedia.ch>",
-  "license": "MIT"
+  "license": "MIT",
 }
