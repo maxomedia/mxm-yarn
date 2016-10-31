@@ -26,3 +26,5 @@ Installing all the dependencies of project
 - `yarn`
 or
 - `yarn install`
+
+The `yarn.lock` file will be generated as soon as you add dependencies.
